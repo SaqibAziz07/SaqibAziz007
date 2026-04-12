@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 About Me
-- 💫 Visit my Portfolio: [![Portfolio](https://img.shields.io/badge/-saqibaziz.portfolio-29903B?style=flat&logo=vercel&logoColor=white)](https://saqibaziz-portfolio.vercel.app/)
+- 💫 Visit my Portfolio: [![Portfolio](https://img.shields.io/badge/-saqibaziz.portfolio-29903B?style=flat&logo=vercel&logoColor=white)](https://saqib-aziz-portfolio.vercel.app/)
 - 🧠 Currently mastering **MERN Stack** at **Saylani Mass IT Training (SMIT)**
 - 🌱 Deepening knowledge in **Backend Development**
 - 🎨 Frontend-focused developer with strong eye for **UI/UX** & responsive design
