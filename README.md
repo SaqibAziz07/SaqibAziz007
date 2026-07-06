@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Saqib Aziz</h1>
-<h3 align="center">Frontend Developer • MERN Stack Learner @ SMIT</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=0D8BF0&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Learning+MERN+stack+at+SMIT;Turning+ideas+into+pixel-perfect+UIs" alt="Typing SVG" />
@@ -18,11 +18,10 @@
 
 ### 🚀 About Me
 - 💫 Visit my Portfolio: [![Portfolio](https://img.shields.io/badge/-saqibaziz.portfolio-29903B?style=flat&logo=vercel&logoColor=white)](https://saqib-aziz-portfolio.vercel.app/)
-- 🧠 Currently mastering **MERN Stack** at **Saylani Mass IT Training (SMIT)**
-- 🌱 Deepening knowledge in **Backend Development**
-- 🎨 Frontend-focused developer with strong eye for **UI/UX** & responsive design
+- 🌱 Deepening knowledge in **App Development**
+- 🎨 Frontend & Backend focused developer with strong eye for **UI/UX** & responsive design
 - 🎬 Part-time **video editor**
-- 🎯 Goal: Build **useful, beautiful, real-world** web applications
+- 🎯 Goal: Build **useful, helpful, real-world** web applications
 
 ---
 
