@@ -6,18 +6,20 @@
 </p>
 
 <p align="center">
+  <a href="https://saqib-aziz-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=yellow" /> 
+  </a>
   <a href="https://www.linkedin.com/in/saqibaziz07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/saqibaziz_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
 ### 🚀 About Me
-- 💫 Visit my Portfolio: [![Portfolio](https://img.shields.io/badge/-saqibaziz.portfolio-29903B?style=flat&logo=vercel&logoColor=white)](https://saqib-aziz-portfolio.vercel.app/)
 - 🌱 Deepening knowledge in **App Development**
 - 🎨 Frontend & Backend focused developer with strong eye for **UI/UX** & responsive design
 - 🎬 Part-time **video editor**
@@ -29,33 +31,34 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-0055FF?style=plastic&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-### UI Libraries & Animation
-[![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=plastic&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Magic UI](https://img.shields.io/badge/Magic_UI-7C3AED?style=plastic&logo=magicui&logoColor=white)](https://magicui.design/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=plastic&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![GSAP](https://img.shields.io/badge/GSAP-339933?style=plastic&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
+<p>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" />
+</p>
 
 ### Backend & Databases
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=plastic&logo=firebase&logoColor=white)](https://firebase.google.com/)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" />
+</p>
 
 ### Tools & Deployment
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)](https://www.netlify.com/)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" title="Netlify" />
+</p>
 
 ---
 
